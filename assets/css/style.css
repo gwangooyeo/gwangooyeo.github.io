@@ -140,7 +140,10 @@ a:hover {
   width: 140px;
   height: 140px;
   border-radius: 50%;
-  object-fit: cover;
+  object-fit: contain;
+  background: #fff;
+  padding: 1px;
+  box-sizing: border-box;
   flex-shrink: 0;
 }
 

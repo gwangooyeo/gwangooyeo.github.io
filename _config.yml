@@ -1,0 +1,12 @@
+title: Gwangoo Yeo
+description: Ph.D. Student @ KAIST School of Electrical Engineering
+url: "https://gwangooyeo.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
